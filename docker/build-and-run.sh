@@ -1,0 +1,1 @@
+docker build -t moja2/pymc3 .
